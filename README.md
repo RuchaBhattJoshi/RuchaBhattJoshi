@@ -27,6 +27,3 @@
 
 </p>
 
-<a href="https://github.com/RuchaBhattJoshi/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=RuchaBhattJoshi">
-</a>
