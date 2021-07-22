@@ -1,5 +1,5 @@
 
-<h1 align="left">👋🏼 Hello World, I'm Rucha 👩🏻‍💻</h1>
+<h1 align="left"> Namaste(नमस्ते)🙏🏻, I'm Rucha 👩🏻‍💻</h1>
 <h3 align="left"> I am an Android Developer from London.</h3>
 
 - 🔭 I'm currently building apps using Kotlin, Android Jetpack libraries and Jetpack Compose.
