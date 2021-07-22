@@ -9,7 +9,7 @@
 - 💬 Ask me about ... **Anything**
 - 😄 Pronouns: **She/Her**
 - 📫 How to reach me **joshirucha0807@gmail.com**
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I can work nonstop without caffiene. Yes, you heard it right.
 
 
 ## 📊 My Github Stats
