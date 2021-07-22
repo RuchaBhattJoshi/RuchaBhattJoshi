@@ -11,13 +11,6 @@
 - 📫 How to reach me **joshirucha0807@gmail.com**
 - ⚡ Fun fact: I can work nonstop without caffiene. Yes, you heard it right.
 
-
-## 📊 My Github Stats
-  <br/>
-    <a href="https://github.com/RuchaBhattJoshi/github-readme-stats"><img alt="Rucha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RuchaBhattJoshi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/RuchaBhattJoshi/github-readme-stats"><img alt="Rucha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchaBhattJoshi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
 ## Connect with me:
 <p align="left">
 
