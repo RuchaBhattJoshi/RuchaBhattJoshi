@@ -3,6 +3,7 @@
 <h3 align="left"> I am an Android Developer from London.</h3>
 
 - 🔭 I'm currently building apps using Kotlin, Android Jetpack libraries and Jetpack Compose.
+- ❤️  I love to contribute to a meaningful product that helps people improve their lives
 - 🧿 I’m currently working on My First Application on AppStore.
 - 🌱 I’m also exploring **Flutter**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
