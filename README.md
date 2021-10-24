@@ -4,8 +4,7 @@
 
 - 🔭 I'm currently building apps using Kotlin, Android Jetpack libraries and Jetpack Compose.
 - ❤️  I love to contribute to a meaningful product that helps people improve their lives
-- 🧿 I’m currently working on My First Application on AppStore.
-- 🌱 I’m also exploring **Flutter**
+- 🧿 I’m currently working on KMM.
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about ... **Anything**
 - 😄 Pronouns: **She/Her**
