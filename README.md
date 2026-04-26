@@ -1,25 +1,92 @@
+<div align="center">
 
-<h1 align="left"> Namaste(नमस्ते)🙏🏻, I'm Rucha 👩🏻‍💻</h1>
-<h3 align="left"> I am an Android Developer from London.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Android+%26+Mobile+Engineer;5%2B+years+building+at+scale;Kotlin+%C2%B7+Compose+%C2%B7+KMM%2FKMP;Currently+learning+to+build+AI+agents)](https://git.io/typing-svg)
 
-- 🔭 I'm currently building apps using Kotlin, Android Jetpack libraries and Jetpack Compose.
-- ❤️  I love to contribute to a meaningful product that helps people improve their lives
-- 🧿 I’m currently working on KMM.
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 💬 Ask me about ... **Anything**
-- 😄 Pronouns: **She/Her**
-- 📫 How to reach me **joshirucha0807@gmail.com**
-- ⚡ Fun fact: I can work nonstop without caffiene. Yes, you heard it right.
+</div>
 
+---
 
+### Hi, I'm Rucha 🙏🏻
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+Android Engineer based in London with **5+ years** delivering consumer-facing apps at scale. Most recently at **Clearscore / DriveScore** — working across Android and KMM on apps serving **20M+ users** across multiple markets.
 
+I care about architecture that holds up, code that's easy to change, and products that actually ship.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ruchabhattjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruchabhattjoshi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5147603/rucha-bhatt-joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rucha-bhatt-joshi" height="30" width="40" /></a>
-<a href="https://medium.com/@joshirucha0807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joshirucha0807" height="30" width="40" /></a>
-</p>
+```kotlin
+val rucha = AndroidAndMobileEngineer(
+    location     = "London, UK 🇬🇧",
+    experience   = "5+ years",
+    currentFocus = listOf("KMM/KMP", "Jetpack Compose", "AI Agents"),
+    openTo       = "Android & KMM roles"
+)
+```
+
+---
+
+### 🛠️ Tech Stack
+
+**Core**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![KMM](https://img.shields.io/badge/KMM%2FKMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**Architecture & Patterns**
+
+![MVVM](https://img.shields.io/badge/MVVM-444?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-444?style=flat-square)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt%2FDagger-444?style=flat-square)
+
+**Testing & Tools**
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat-square)
+![Espresso](https://img.shields.io/badge/Espresso-25A162?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📌 Highlights
+
+- 📱 Built & maintained Android + KMM apps at **Clearscore** serving **20M+ users**
+- 🔄 Led **XML → Jetpack Compose** migration across 40+ components
+- ⚡ Led **RxJava → Coroutines** migration across a 30+ module codebase
+- 📈 Improved unit test coverage from **~12% → ~27%** in 2 months
+- 🤝 Mentored developers and facilitated knowledge sharing between Android & iOS teams
+- 🌍 T-shaped: Android core + Swift/SwiftUI, TypeScript/Node contributions
+
+---
+
+### 🚀 Currently
+
+```
+📚  Attending AI Dev Camp — learning to build AI agents with LLMs
+🤖  Exploring how agent workflows fit into mobile-first products  
+🏗️  Building Android projects in Kotlin — coming to this profile soon
+✍️  Planning to write about what I'm learning along the way
+```
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchabhattjoshi)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5147603/rucha-bhatt-joshi)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joshirucha0807)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshirucha0807@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>📍 London · She/Her · Open to Android & KMM roles</sub>
+</div>
