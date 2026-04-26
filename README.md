@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Android+%26+Mobile+Engineer;5%2B+years+building+at+scale;Kotlin+%C2%B7+Compose+%C2%B7+KMM%2FKMP;Currently+learning+to+build+AI+agents)](https://git.io/typing-svg)
+## Rucha Bhatt · Android & Mobile Engineer
 
 </div>
 
